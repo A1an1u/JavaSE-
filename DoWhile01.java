@@ -3,7 +3,7 @@ public class DoWhile01 {
         //do....while 结构
         int i = 11;
         do {
-            //首先执行一边do结构内的代码块
+            //首先执行一遍do结构内的代码块
             //再判断while()内的表达式
             System.out.println(i);
             i++;
