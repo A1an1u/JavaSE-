@@ -1,7 +1,7 @@
 public class DoWhile01 {
     public static void main(String[] args) {
         //do....while 结构 先执行再判断，所以至少会执行一次
-        int i = 11;
+        int i = 1;
         do {
             //首先执行一遍do结构内的代码块
             //再判断while()内的表达式
